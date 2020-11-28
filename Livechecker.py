@@ -1,19 +1,6 @@
 # coding=utf-8
 
-#
-# * RECODE? OKE GAK MASSALAH
-# * TAPI YA JANGAN DI JUAL KONTOL
-#
 
-############################################################
-# Name           : Moonton Account Checker                 #
-# File           : moonton.py                              #
-# Author         : DulLah                                  #
-# Github         : https://github.com/dz-id                #
-# Facebook       : https://www.facebook.com/dulahz         #
-# Telegram       : https://t.me/DulLah                     #
-# Python version : 3.7++                                   #
-############################################################
 
 import os, sys, hashlib, json, random, re
 from get_proxy import proxy
@@ -63,10 +50,10 @@ class MOONTON:
     self.loop = 0
     print('''\033[0m
 
-|V| _  _ __ _|_ _ __    /  |_  _  _  |  _  __
-| |(_)(_)| | |_(_)| |   \__| |(/_(_  |<(/_ |
+\033[33;1m|V| _  _ __ _|_ _ __    /  |_  _  _  |  _  __
+\033[33;1m| |(_)(_)| | |_(_)| |   \__| |(/_(_  |<(/_ |
 ---------------------------------------------
-          - Created By (DulLah) -
+         - Created By (Faizul Boften) -
 ---------------------------------------------\n''')
 ##########################################
 # Please don't remove the author name :( #
