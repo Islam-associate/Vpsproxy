@@ -53,7 +53,9 @@ class MOONTON:
 \033[33;1m|V| _  _ __ _|_ _ __    /  |_  _  _  |  _  __
 \033[33;1m| |(_)(_)| | |_(_)| |   \__| |(/_(_  |<(/_ |
 ---------------------------------------------
-         - Created By (Faizul Boften) -
+         - \033[33;1mCreated By (Faizul Boften) -
+         - \033[33;1mDevice Xiomi 
+         - \033[33;1mChannel Dbs Channel 
 ---------------------------------------------\n''')
 ##########################################
 # Please don't remove the author name :( #
@@ -93,10 +95,10 @@ class MOONTON:
 
   def main(self):
     print(
-      '[!] Pemisah email:password atau email|password\n'
+      '[!] \033[33;1mPemisah email:password atau email|password\n'
     )
     empas = input(
-      '[?] List empas (ex: list.txt): '
+      '[?] List Empas (ex: list.txt) - - >: '
     )
     if os.path.exists(
       empas
